@@ -22,3 +22,8 @@ app.listen(3000, function() {
 });
 
 ````
+
+## Document
+- EJS - https://ejs.co/
+- mongoose - https://mongoosejs.com/
+- lodash - https://lodash.com/
